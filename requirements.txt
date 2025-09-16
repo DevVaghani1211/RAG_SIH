@@ -1,0 +1,15 @@
+langchain==0.1.20
+`
+faiss-cpu
+pypdf
+huggingface_hub
+flask   
+python-dotenv
+sentence-transformers 
+groq
+langchain-groq
+jq
+pandas
+pyyaml
+langchain-pinecone
+streamlit

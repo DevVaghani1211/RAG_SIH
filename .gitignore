@@ -1,0 +1,15 @@
+venv/
+.venv/
+pycache/
+*.pyc
+*.pyo
+*.pyd4
+.env
+data/
+vectorstore/
+eval/
+.vscode/
+.idea/
+.DS_Store
+SIH.egg-info/
+logs/
